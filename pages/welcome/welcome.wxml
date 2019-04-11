@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class='container'>
+  <image src="/images/avatar/4.png" class='user-avatar'/>
+  <text class='user-name'><text style="color:red">你好,</text> 发光de小鱼</text>
+  <view class='motto-container' bindtap='onTap'>
+    <text class='motto'>开启小程序之旅</text>
+  </view>
+</view>

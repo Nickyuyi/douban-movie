@@ -1,0 +1,19 @@
+<view class="container">
+  <image class="head-image" src="{{post_content.headImgSrc}}"></image>
+  <image class="audio" src="/images/music/music-start.png"></image>
+  <view class="author-date">
+    <image class="avatar" src="{{post_content.avatar}}"></image>
+    <text class="author">{{post_content.author}}</text>
+    <text class="const-text">发表于</text>
+    <text class="date">{{post_content.dateTime}}</text>
+  </view>
+  <text class="title">{{post_content.title}}</text>
+  <view class="tool">
+    <view class="circle-img">
+      <image src="{{curCollection ? '/images/icon/collection.png' : '/images/icon/collection-anti.png'}}" catchtap='onCollection'></image>
+      <image class="share-img" src="/images/icon/share.png" catchtap="onShare"></image>
+    </view>
+    <view class="horizon"></view>
+  </view>
+  <text class="detail">{{post_content.detail}}</text>
+</view>
