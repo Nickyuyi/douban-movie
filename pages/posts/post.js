@@ -22,5 +22,13 @@ Page({
     wx.navigateTo({
       url: './post-detail/post-detail?id=' + postId,
     })
+  },
+
+  onSwiperTap: function(event) {
+    console.log(event)
+    var postId = event.target.dataset.postId
+    wx.navigateTo({
+      url: './post-detail/post-detail?id=' + postId
+    })
   }
 })

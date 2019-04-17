@@ -4,15 +4,16 @@
     indicator-dots='true'
     autoplay='true'
     interval='2000'
+    catchtap="onSwiperTap"
   >
     <swiper-item>
-      <image src='/images/wx.png'></image>
+      <image data-post-id="3" src='/images/wx.png'></image>
     </swiper-item>
     <swiper-item>
-      <image src='/images/vr.png'></image>
+      <image src='/images/vr.png' data-post-id="4"></image>
     </swiper-item>
     <swiper-item>
-      <image src='/images/iqiyi.png'></image>
+      <image src='/images/iqiyi.png' data-post-id="5"></image>
     </swiper-item>
   </swiper>
   <block wx:for="{{post_content}}" wx:for-item="item" wx:for-index="idx">

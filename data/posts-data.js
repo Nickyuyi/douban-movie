@@ -12,9 +12,9 @@ var local_database = [{
     detail: "菊黄蟹正肥，品尝秋之味。徐志摩把“看初花的荻芦”和“到楼外楼吃蟹”并列为秋天来杭州不能错过的风雅之事；用林妹妹的话讲是“螯封嫩玉双双满，壳凸红脂块块香”；在《世说新语》里，晋毕卓更是感叹“右手持酒杯，左手持蟹螯，拍浮酒船中，便足了一生矣。”漫漫人生长路，美食与爱岂可辜负？于是作为一个吃货，突然也很想回味一下属于我的味蕾记忆。记忆中的秋蟹，是家人的味道，弥漫着浓浓的亲情。\n\n是谁来自山川湖海，却囿于昼夜，厨房与爱？ 是母亲，深思熟虑，聪明耐心。吃蟹前，总会拿出几件工具，煞有介事而乐此不疲。告诉我们螃蟹至寒，需要佐以姜茶以祛寒，在配备的米醋小碟里，亦添入姜丝与紫苏，前者驱寒后者增香。泡好菊花茶，岁月静好，我们静等。",
     postId: 0,
     music: {
-      url: "http://ws.stream.qqmusic.qq.com/C100003507bR0gDKBm.m4a?fromtag=38",
-      title: "夜夜夜夜-齐秦",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001TEc6V0kjpVC.jpg?max_age=2592000"
+      url: "http://ws.stream.qqmusic.qq.com/M500001VfvsJ21xFqb.mp3?guid=ffffffff82def4af4b12b3cd9337d5e7&uin=346897220&vkey=6292F51E1E384E06DCBDC9AB7C49FD713D632D313AC4858BACB8DDD29067D3C601481D36E62053BF8DFEAF74C0A5CCFADD6471160CAF3E6A&fromtag=46",
+      title: "此时此刻-许巍",
+      coverImg: "http://y.gtimg.cn/music/photo_new/T002R300x300M000003rsKF44GyaSk.jpg?max_age=2592000"
     }
   },
   {
@@ -31,8 +31,8 @@ var local_database = [{
     avatar: "/images/avatar/1.png",
     postId: 1,
     music: {
-      url: "http://ws.stream.qqmusic.qq.com/C100003GdCmG4NkEOR.m4a?fromtag=38",
-      title: "鬼迷心窍-李宗盛",
+      url: "http://101.227.216.146/amobile.music.tc.qq.com/C400004PXVzO1Sp2qS.m4a?guid=3522446638&vkey=6DBC3C7EA09ABD457037427BCBD9B02405774415FC8EF144F1CABD763D0FF74E2594266281A487A5D5624BB7CAED17EF76DAABF31CFBA536&uin=1434&fromtag=66",
+      title: "Falling Slowly",
       coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000002xOmp62kqSic.jpg?max_age=2592000"
     }
   },
@@ -51,8 +51,8 @@ var local_database = [{
     avatar: "/images/avatar/3.png",
     postId: 2,
     music: {
-      url: "http://ws.stream.qqmusic.qq.com/C100004HLusI2lLjZy.m4a?fromtag=38",
-      title: "女儿情-万晓利",
+      url: "http://101.227.216.146/amobile.music.tc.qq.com/C400003GXfy10B1woi.m4a?guid=3522446638&vkey=C487043FF222AAB368CCDFE58528B0AA394CB4A02F0DAFB811C1A5D667463C0C558F6BD3EC57CA30495F4CC5A8592E3E001F415ECCA60AB9&uin=1434&fromtag=66",
+      title: "Baby is you",
       coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004Wv5BO30pPc0.jpg?max_age=2592000"
     }
   },
